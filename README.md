@@ -45,7 +45,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Github] (https://github.com/usiemeblessing/order-summary-component)
--   Live Site URL: [Live site at Netlify](https://usiemeblessing-order-summary-comp.netlify.app)
+-   Live Site URL: [Live site at Netlify] (https://usiemeblessing-order-summary-comp.netlify.app)
 
 ## My process
 
@@ -76,8 +76,8 @@ I’d like to keep improving my skills in responsive design, especially using mo
 
 ### Useful resources
 
--   [Example resource 1](https://www.w3schools.com/html/html_responsive.asp) - This helped me understand responsiveness better.
--   [Example resource 2](https://www.w3schools.com/css/css3_mediaqueries.asp) - This helped me understand media queries better.
+-   [Resource 1](https://www.w3schools.com/html/html_responsive.asp) - This helped me understand responsiveness better.
+-   [Resource 2](https://www.w3schools.com/css/css3_mediaqueries.asp) - This helped me understand media queries better.
 
 ## Author
 
