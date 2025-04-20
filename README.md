@@ -40,7 +40,7 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop preview](./images/desktop-preview.png)
-![Mobliel preview](./images/mobile-preview.png)
+![Mobile preview](./images/mobile-preview.png)
 
 ### Links
 
